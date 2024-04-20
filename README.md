@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | Blockchain Geek<br><br>Trying to build things that solve big picture problems.<br>Also trying to contribute to various open source projects.
+Frontend Developer and Designer | Blockchain Geek<br><br>Trying to build things that solve big picture problems.<br>Also trying to contribute to various open source projects.
 
 
 ## 🌐 Socials:
